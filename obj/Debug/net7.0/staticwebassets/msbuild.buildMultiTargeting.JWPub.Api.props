@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWPub.Api.props" />
+</Project>
